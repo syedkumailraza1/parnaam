@@ -1,16 +1,20 @@
-# demo
+# parnaam
 
-A new Flutter project.
+This is a New Flutter Package Which Greats the User.
+
+## Features
+
+ - Easy To Use
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To use this package, add parnaam as a dependency in your pubspec.yaml file.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Minimal Example:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+``` dart
+Parnaam()
+```
+
